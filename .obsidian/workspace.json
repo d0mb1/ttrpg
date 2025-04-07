@@ -1,0 +1,309 @@
+{
+  "main": {
+    "id": "ae2109a792fe974b",
+    "type": "split",
+    "children": [
+      {
+        "id": "841174c55c82ecaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bed0d74b66bd4d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RESET/1. Attributes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Attributes"
+            }
+          },
+          {
+            "id": "e0a616a27feb3731",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RESET/1. Attributes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Attributes"
+            }
+          },
+          {
+            "id": "24308d2dbb76c7b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RESET/9. Targeting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9. Targeting"
+            }
+          },
+          {
+            "id": "a0fc452f0f5f0339",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RESET/1. Attributes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Attributes"
+            }
+          },
+          {
+            "id": "114af0e21e43481b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RESET/Rules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rules"
+            }
+          },
+          {
+            "id": "51eb01338261d632",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RESET/Rules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rules"
+            }
+          },
+          {
+            "id": "1b14d258fd601437",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RESET/1. Attributes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Attributes"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a56f2be6ca36d1f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c9b909ed5fc6f5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c50a8f9714d2aa36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f08db9c0efb97fe7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d3478ef9143e0311",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "3809e87adfe8a467",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ee8ce91cb9d8fac3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6573ee42d141e2a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acb49feacd3df6db",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Positioning during combat.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Positioning during combat"
+            }
+          },
+          {
+            "id": "dedb8c6f0a87738a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Positioning during combat.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Positioning during combat"
+            }
+          },
+          {
+            "id": "95b1f26a18726498",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a3ef4a5cbec5f2d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Positioning during combat.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Positioning during combat"
+            }
+          },
+          {
+            "id": "bc16491f50e3820b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1b14d258fd601437",
+  "lastOpenFiles": [
+    "RESET/3. Skills.md",
+    "RESET/1. Attributes.md",
+    "RESET/10. Positioning during combat.md",
+    "RESET/9. Targeting.md",
+    "RESET/8. Combat actions and reactions.md",
+    "RESET/Rules.baked.md",
+    "RESET/Rules.md",
+    "RESET/7. Combat flow.md",
+    "RESET/6. Rolling the dice.md",
+    "RESET/5. Character progression.md",
+    "RESET/4. Character creation.md",
+    "RESET/2. Secondary attributes.md",
+    "RESET/0. Rules.baked.md",
+    "HRDINA/SEKUNDÁRNÍ ATRIBUTY/Životy.md",
+    "HRDINA/Zvyšování Atributů.md",
+    "HRDINA/Zkušenosti.md",
+    "HRDINA/Dovednosti.md",
+    "2025-04-05.md",
+    "Untitled.canvas",
+    "DALŠÍ/Vytváření hrdiny.md",
+    "DALŠÍ/Vypravěč.md",
+    "DALŠÍ/ÚVOD.md",
+    "DALŠÍ/Úspěch.md",
+    "Dungeon_Crawl_Classics_Role_Playing_Game_(DCC_RPG).pdf",
+    "Mapa schopností.canvas",
+    "Povolání.md",
+    "NÁPADY/Rasy.md",
+    "NÁPADY/Pokrové kostky.md",
+    "RESET"
+  ]
+}

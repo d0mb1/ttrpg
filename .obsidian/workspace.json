@@ -8,105 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6bed0d74b66bd4d6",
+            "id": "4ef87648c74b5241",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RESET/1. Attributes.md",
+                "file": "RESET/4. Rolling the dice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Attributes"
-            }
-          },
-          {
-            "id": "e0a616a27feb3731",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RESET/1. Attributes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Attributes"
-            }
-          },
-          {
-            "id": "24308d2dbb76c7b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RESET/9. Targeting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "9. Targeting"
-            }
-          },
-          {
-            "id": "a0fc452f0f5f0339",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RESET/1. Attributes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Attributes"
-            }
-          },
-          {
-            "id": "114af0e21e43481b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RESET/Rules.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rules"
-            }
-          },
-          {
-            "id": "51eb01338261d632",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RESET/Rules.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rules"
-            }
-          },
-          {
-            "id": "1b14d258fd601437",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RESET/1. Attributes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Attributes"
+              "title": "4. Rolling the dice"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -275,36 +190,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b14d258fd601437",
+  "active": "4ef87648c74b5241",
   "lastOpenFiles": [
-    "RESET/3. Skills.md",
-    "RESET/1. Attributes.md",
-    "RESET/10. Positioning during combat.md",
+    "RESET/7. Combat flow.md",
+    "RESET/Rules.md",
+    "RESET/6. Equipment.md",
+    "RESET/Character creation.md",
+    "RESET/10. Specials.md",
     "RESET/9. Targeting.md",
     "RESET/8. Combat actions and reactions.md",
-    "RESET/Rules.baked.md",
-    "RESET/Rules.md",
-    "RESET/7. Combat flow.md",
-    "RESET/6. Rolling the dice.md",
+    "RESET/1. Attributes V2.md",
+    "RESET/0. Misc.md",
+    "RESET/1. Attributes V1.md",
+    "RESET/4. Rolling the dice.md",
+    "Screenshot 2025-04-25 at 22.41.22.png",
+    "Screenshot 2025-04-25 at 22.40.12.png",
+    "RESET/3. Skills V2.md",
     "RESET/5. Character progression.md",
-    "RESET/4. Character creation.md",
-    "RESET/2. Secondary attributes.md",
-    "RESET/0. Rules.baked.md",
+    "RESET/2. Secondary attributes V2.md",
+    "RESET/Ideas.canvas",
+    "RESET/11. Positioning during combat.md",
+    "Screenshot 2025-04-20 at 12.11.58.png",
+    "Screenshot 2025-04-20 at 12.11.44.png",
+    "Screenshot 2025-04-20 at 12.11.28.png",
+    "Screenshot 2025-04-20 at 12.11.13.png",
+    "Screenshot 2025-04-20 at 12.11.02.png",
+    "Screenshot 2025-04-20 at 12.10.48.png",
+    "Screenshot 2025-04-20 at 12.10.34.png",
+    "Screenshot 2025-04-20 at 12.10.13.png",
+    "RESET/2. Secondary attributes V1.md",
+    "RESET/Rules.baked.md",
     "HRDINA/SEKUNDÁRNÍ ATRIBUTY/Životy.md",
-    "HRDINA/Zvyšování Atributů.md",
-    "HRDINA/Zkušenosti.md",
-    "HRDINA/Dovednosti.md",
-    "2025-04-05.md",
+    "HRDINA/SEKUNDÁRNÍ ATRIBUTY/Útočná síla.md",
+    "HRDINA/SEKUNDÁRNÍ ATRIBUTY/Štěstí.md",
+    "HRDINA/SEKUNDÁRNÍ ATRIBUTY/Rychlost.md",
+    "HRDINA/SEKUNDÁRNÍ ATRIBUTY/Nosnost.md",
+    "HRDINA/SEKUNDÁRNÍ ATRIBUTY/Magická síla.md",
+    "RESET/3. Skills V1.md",
+    "2025-04-16.md",
     "Untitled.canvas",
-    "DALŠÍ/Vytváření hrdiny.md",
-    "DALŠÍ/Vypravěč.md",
-    "DALŠÍ/ÚVOD.md",
-    "DALŠÍ/Úspěch.md",
-    "Dungeon_Crawl_Classics_Role_Playing_Game_(DCC_RPG).pdf",
+    "Untitled 1.canvas",
     "Mapa schopností.canvas",
-    "Povolání.md",
-    "NÁPADY/Rasy.md",
-    "NÁPADY/Pokrové kostky.md",
+    "Dungeon_Crawl_Classics_Role_Playing_Game_(DCC_RPG).pdf",
     "RESET"
   ]
 }
